@@ -78,9 +78,11 @@ print("hello world")
 <!-- github no provee algunas cosas extra -->
 <!-- to do, tareas --> 
 
-*[x] tarea 1
-*[ ] tarea 2
-*[ ] tarea 3
+*[x]tarea 1
+
+*[ ]tarea 2
+
+*[ ]tarea 3
 
 <!-- mencionar otro usuario -->
 ___
