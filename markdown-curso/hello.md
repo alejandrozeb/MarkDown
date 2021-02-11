@@ -76,3 +76,17 @@ print("hello world")
 <!-- podemos añadir videos con plugins -->
 
 <!-- github no provee algunas cosas extra -->
+<!-- to do, tareas --> 
+
+*[x] tarea 1
+*[] tarea 2
+*[] tarea 3
+
+<!-- mencionar otro usuario -->
+
+@alejandrozeb
+
+<!-- emoji -->
+:smile:
+:grin:
+:loop:
