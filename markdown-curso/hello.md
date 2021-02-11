@@ -79,11 +79,11 @@ print("hello world")
 <!-- to do, tareas --> 
 
 *[x] tarea 1
-*[] tarea 2
-*[] tarea 3
+*[ ] tarea 2
+*[ ] tarea 3
 
 <!-- mencionar otro usuario -->
-
+___
 @alejandrozeb
 
 <!-- emoji -->
